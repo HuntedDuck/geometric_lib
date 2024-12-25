@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - new_features_<465483
+      - new_features_465483
   workflow_dispatch:
 
 jobs:
